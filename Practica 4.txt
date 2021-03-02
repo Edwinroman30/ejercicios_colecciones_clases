@@ -1,0 +1,44 @@
+Practica 04 - Ejercicios colecciones y clases
+Realizar los siguientes ejercicios y subirlos a un repositorio con el nombre "ejercicios_colecciones_clases".
+
+ 
+
+Un programa que pida al usuario 4 números, los memorice (utilizando una coleccion), calcule su media aritmética y después muestre en pantalla la media y los datos ingresado.
+ 
+
+Crear y cargar una lista con 10 enteros por teclado. Crear un programa que identifique el valor mas pequeño de la lista y la posición donde se encuentra. Mostrar en pantalla el resultado.
+ 
+
+Un programa que almacene en una lista el número de días que tiene cada mes (supondremos que es un año no bisiesto), pida al usuario que le indique un mes (1=enero, 12=diciembre) y muestre en pantalla el número de días que tiene ese mes.
+ 
+
+Crear una lista. La lista tiene que tener 3 elementos. Cada elemento debe ser una lista de 5 enteros. Calcular y mostrar la suma de cada lista contenida en la lista principal.
+ 
+
+Crear una aplicación que se ingrese por teclado el nombre de 5 empleados, sueldo cobrado por cada empleado en los ultimos 3 meses. Mostrar en pantalla el total pagado a cada empleado en los ultimos 3 meses obtener y mostrar cual fue el empleado de mayor ingreso.
+ 
+
+Crear una función que le enviemos como parámetros dos enteros y nos retorne el mayor.
+ 
+
+ 
+
+Crear una lista y almacenar 20 enteros pedidos por teclado. Eliminar todos los elementos que sean pares.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Crear un programa que defina una lista de 5 elementos de tipo reales que representen las alturas de 5 personas.
+Obtener el promedio de las mismas. Contar cuántas personas son más altas que el promedio y cuántas más bajas.
+
+Crear una clase que permita ingresar valores enteros por teclado y nos muestre la tabla de multiplicar de dicho valor. Finalizar el programa al ingresar el -1.
+
+Crear una función que reciba una serie de edades y me retorne la cantidad que son mayores o iguales a 18.
