@@ -32,3 +32,7 @@ print("\n")
 print(f'Su promedio es... {round(promedio)}')
 Determinador()
 
+
+# I´m done teacher :)
+#Edwin Alberto Roman Seberino
+#Enrollment: 2020-10233

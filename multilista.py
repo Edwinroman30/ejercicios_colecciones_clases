@@ -10,3 +10,9 @@ for key,i in enumerate(mainList):
         temp+=x
 
     print(f'Suma de la Sub_lista_{key+1}: {temp}')
+    
+    
+    
+# I´m done teacher :)
+#Edwin Alberto Roman Seberino
+#Enrollment: 2020-10233

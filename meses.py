@@ -24,3 +24,8 @@ Dmese = {
 opcion = int(input('Inserte el valor:'))
 
 print(f'{Dmese[opcion][0]} tiene {Dmese[opcion][1]}  días.')
+
+
+# I´m done teacher :)
+#Edwin Alberto Roman Seberino
+#Enrollment: 2020-10233

@@ -14,3 +14,8 @@ for nums in numbers:
    promedio+= nums
 
 print(f'Su media aritm�tica es {promedio//len(numbers)}')
+
+
+# I´m done teacher :)
+#Edwin Alberto Roman Seberino
+#Enrollment: 2020-10233
